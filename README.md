@@ -17,7 +17,7 @@
 Voltando as raízes, de onde nunca deveria ter saído! onde posso conquistar meus sonhos e ajudar as pessoas através da programação.
 ## Projetos !
 <div>
-   
+   - https://docs.google.com/spreadsheets/d/1oiXLgv9FaCxmufSS9-7oKdakcIB8N0ezWcDZYAydWPk/edit#gid=0
 </div>
 
 ## Email:
