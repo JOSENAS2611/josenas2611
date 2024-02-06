@@ -16,9 +16,13 @@
 
 Voltando as raízes, de onde nunca deveria ter saído! onde posso conquistar meus sonhos e ajudar as pessoas através da programação.
 ## Projetos !
-<div>
-   - https://docs.google.com/spreadsheets/d/1oiXLgv9FaCxmufSS9-7oKdakcIB8N0ezWcDZYAydWPk/edit#gid=0
-</div>
+
+   Landing-pag-arquitetura, Planilha Link abaixo: 
+ - https://docs.google.com/spreadsheets/d/1oiXLgv9FaCxmufSS9-7oKdakcIB8N0ezWcDZYAydWPk/edit#gid=0
+   
+Projeto-landing-page, Planilha Link abaixo:
+ - https://docs.google.com/spreadsheets/d/1CnuenBH_5YkCM2dYrkUNKn7zO2PSpBI14bqEhRqdt_g/edit#gid=0
+
 
 ## Email:
 - nilton2611@yahoo.com.br
