@@ -24,6 +24,8 @@ Voltando as raízes, de onde nunca deveria ter saído! onde posso conquistar meu
  - https://docs.google.com/spreadsheets/d/1CnuenBH_5YkCM2dYrkUNKn7zO2PSpBI14bqEhRqdt_g/edit#gid=0
  <ul>Pagina Consulta de Previsão do Tempo</ul>
  - https://previsao-tempo-endereco.netlify.app/
+ <ul>Landing Page de curso e treinamento</ul>
+ - https://treinamentobalanca.netlify.app/
 
 
 ## Email:
