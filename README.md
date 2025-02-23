@@ -12,6 +12,7 @@
    <img alig="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img alig="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img alig="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img alig="center" alt="html5" src="https://img.shields.io/badge/Git-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 Voltando as raízes, de onde nunca deveria ter saído! onde posso conquistar meus sonhos e ajudar as pessoas através da programação.
